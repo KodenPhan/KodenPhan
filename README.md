@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KodenPhan
-- 👀 I’m interested in Linux/Unix
-- 🌱 I’m currently learning Linux Advance
-- 💞️ I’m looking to collaborate on creating OS
+- 👀 I’m interested in Linux/Unix and Cyber Security
+- 🌱 I’m currently learning Cyber Security
+- 💼 I'm currently working as Linux System Administrator
 - 📫 How to reach me phantpnguyen@gmail.com
 
 <!---
